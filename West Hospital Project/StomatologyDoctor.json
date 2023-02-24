@@ -1,0 +1,16 @@
+﻿[
+  {
+    "DoctorName": "Akif",
+    "DoctorSurname": "Akifov",
+    "DoctorExperience": "1",
+    "DoctorRanks": "Doctor",
+    "CryingMachine;": "Yes"
+  },
+  {
+    "DoctorName": "Turqut",
+    "DoctorSurname": "Aliyev",
+    "DoctorExperience": "2",
+    "DoctorRanks": "Doctor",
+    "CryingMachine": "Yes"
+  }
+]

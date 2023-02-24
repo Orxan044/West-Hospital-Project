@@ -1,0 +1,14 @@
+﻿[
+  {
+    "DoctorName": "Tosu",
+    "DoctorSurname": "Zengilaniski",
+    "DoctorExperience": "15",
+    "DoctorRanks": "Doctor"
+  },
+  {
+    "DoctorName": "Balaeli",
+    "DoctorSurname": "Mastagali",
+    "DoctorExperience": "3",
+    "DoctorRanks": "Doctor"
+  }
+]

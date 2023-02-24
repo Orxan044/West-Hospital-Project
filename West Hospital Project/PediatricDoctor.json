@@ -1,0 +1,14 @@
+﻿[
+  {
+    "DoctorName": "Ulviyye",
+    "DoctorSurname": "Aliyeva",
+    "DoctorExperience": "9",
+    "DoctorRanks": "Chief Doctor"
+  },
+  {
+    "DoctorName": "Fexreddin",
+    "DoctorSurname": "Gulmemmedov",
+    "DoctorExperience": "12",
+    "DoctorRanks": "Specialist Doctor"
+  }
+]
